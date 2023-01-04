@@ -23,4 +23,6 @@ Will be here soon (before the release)
 </p>
 
 ## Thanks
-- [Valorant.js](https://github.com/liamcottle/valorant.js)
+- [Valorant.js](https://github.com/liamcottle/valorant.js) for the good npm package and the help on the discord.
+- [HenrikDev](https://henrikdev.xyz) for his Valorant API
+- [Valorant-API](https://valorant-api.com) for the assets
