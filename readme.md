@@ -4,6 +4,9 @@
 ## ValoBoard
 Its a desktop app which gives info about your valorant account. Its currently in working but I hope I can release it as soon as possible.
 
+## Discord
+Will be here soon (before the release)
+
 ## Functions
 - The newest articles from Valorant about the game updates
 - Your profile data: player card, player title and level
