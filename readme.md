@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://github.com/Vaneeyo/ValoBoard/blob/main/readmefiles/GitHub%20Banner.png?raw=true" />
 </p>
+
 ## ValoBoard
 Its a desktop app which gives info about your valorant account. Its currently in working but I hope I can release it as soon as possible.
 
