@@ -21,3 +21,6 @@ Will be here soon (before the release)
 <p align="center">
   <img style="scale:50%" src="https://github.com/Vaneeyo/ValoBoard/raw/main/readmefiles/Screenshot-%231.png"/>
 </p>
+
+## Thanks
+- [Valorant.js](https://github.com/liamcottle/valorant.js)
