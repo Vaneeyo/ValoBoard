@@ -11,6 +11,9 @@ Its a desktop app which gives info about your valorant account. Its currently in
 - Last 5 matches
 - Daily store
 - Collection (only Vandal, Phantom and Sheriff)
-- Ingame-challenges
+- In-game challenges
 
 ## Screenshots
+<p align="center">
+  <img style="scale:50%" src="https://github.com/Vaneeyo/ValoBoard/raw/main/readmefiles/Screenshot-%231.png"/>
+</p>
